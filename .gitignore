@@ -19,3 +19,7 @@ Hello.java
 
 #XML file
 item_row.xml
+
+
+#Layout file
+layout/
