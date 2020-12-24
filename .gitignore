@@ -18,8 +18,8 @@ local.properties
 MainActivity.java
 
 #XML file
-*.xml
-/item_row.xml
+#*.xml
+#/item_row.xml
 
 #ALl Layout file
 activity_main.xml
