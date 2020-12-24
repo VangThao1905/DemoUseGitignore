@@ -16,6 +16,7 @@ local.properties
 
 #Skip class Hello
 Hello.java
+MainActivity.java
 
 #XML file
 item_row.xml
