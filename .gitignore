@@ -19,6 +19,7 @@ MainActivity.java
 
 #XML file
 *.xml
+/item_row.xml
 
 
 #ALl Layout file
